@@ -184,7 +184,7 @@ function renderCircles(circlesGroup, newXScale, currentSelection) {
 
       .classed("active", true)
 
-      .text("GDP per capita as proportion of average GDP per capita")
+      .text("Country GDP Per Capita as Proportion of Mean GDP Per Capita")
 
     labelsGroup
 
